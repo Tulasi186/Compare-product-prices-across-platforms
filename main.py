@@ -50,7 +50,7 @@ def main():
     st.title("Price Comparison Table")
     
     # Input fields
-    api_key = "4863545fa898f0f5e21f3b32cb952b4449cec3ab6bdcef9e567017ae67b1b2f9"  
+    api_key = "YOUR API KEY"  
     search_query = st.text_input("Enter product name")
     
     if st.button("Compare Prices"):
