@@ -52,7 +52,8 @@ Enter a product name and click Compare Prices to see the results.
 
 ## Output:
 
-![image](https://github.com/user-attachments/assets/cd0d48fe-0917-4b3d-9771-819980571c83)
+![image](https://github.com/user-attachments/assets/888176d4-0c0b-4640-8ff5-287d237e420b)
+
 
 
 
