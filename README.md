@@ -26,12 +26,6 @@ Pandas – Data processing
 
 SerpAPI – Fetching product prices
 
-## Installation
-
-Clone the repository:
-
-git clone https://github.com/your-username/PriceScout.git
-cd PriceScout
 
 ## Install dependencies:
 
